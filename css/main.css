@@ -2,3 +2,22 @@
     display: inline;
     color: aqua;
 }
+
+h1{
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: xx-large;
+    text-align: center;
+}
+li{
+    position: relative;
+}
+
+td{
+    font-size: large;
+    
+}
+
+.icon{
+    text-align: center;
+}
+
