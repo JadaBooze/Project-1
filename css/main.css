@@ -12,8 +12,9 @@ li{
     position: relative;
 }
 
-td{
+.menu-items{
     font-size: large;
+    text-align: center;
     
 }
 
@@ -21,3 +22,16 @@ td{
     text-align: center;
 }
 
+#nutrition{
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    height: 6rem;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+  }
